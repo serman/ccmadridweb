@@ -37,7 +37,6 @@ background-color:black;
 .item p{
   margin:0px!important;
   padding-left:1em;
-
 }
 
 .item h4 {
@@ -51,7 +50,7 @@ background-color:black;
 }
 .articles .content p {
     line-height: 1.9;
-    margin: 0px 0;
+    margin: 12px 0;
 }
 .author-image {
     position: absolute;
